@@ -1,4 +1,6 @@
 # Implication-Table-Method
+![WhatsApp Image 2024-05-17 at 15 27 04_c8f63522](https://github.com/user-attachments/assets/0d11aa52-622c-41b7-8979-09d05fe1d5cb)
+
 
  •INPUT•
 

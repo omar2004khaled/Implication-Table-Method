@@ -158,27 +158,3 @@ OUTPUT:
 3. Equivalent Classes: 2 classes identified
 4. Reduced State Table: 2×2 optimized table
 ```
-
-## Applications
-
-- **Digital Circuit Design**: Minimizing state machines in sequential circuits
-- **Software State Management**: Optimizing state-based software systems
-- **Protocol Design**: Reducing complexity in communication protocols
-- **Academic Research**: Teaching and learning finite state machine theory
-
-## Contributing
-
-When modifying this implementation:
-1. Maintain comprehensive comments
-2. Follow existing code structure
-3. Add appropriate error handling
-4. Update documentation accordingly
-5. Test with various input scenarios
-
-## License
-
-This implementation is provided for educational and research purposes. Please ensure proper attribution when using in academic or commercial projects.
-
----
-
-*This README provides comprehensive documentation for the Implication Table Method implementation. For additional questions or improvements, please refer to the inline code comments or contact the maintainers.*
